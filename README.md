@@ -5,5 +5,5 @@ WP Slider Revolution has WPML support but lack of native Polylang support. This 
 Required Plugin: Polylang
 https://wordpress.org/plugins/polylang/
 
-Follow this guide on how to translate slider.
+Follow this guide to learn how to translate slider.
 https://wpml.org/documentation/plugins-compatibility/creating-multilingual-sliders-with-revolution-slider-and-wpml/
